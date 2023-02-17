@@ -5,5 +5,5 @@
 DESCRICAO
 
 ```
-npm install
+npm install react
 ```
