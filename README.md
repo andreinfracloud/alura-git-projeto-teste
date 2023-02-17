@@ -5,5 +5,5 @@
 DESCRICAO
 
 ```
-npm install react
+node app.js
 ```
